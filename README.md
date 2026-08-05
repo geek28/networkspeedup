@@ -5,5 +5,5 @@
 
 <img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/615c7d33-c947-4d72-9840-b1a30c4da9d7" /> You need to restart your computer for the changes to take effect 
 
- ! [image alt](https://github.com/geek28/networkspeedup/blob/5ec8857790e030d6ad0207182d9eac8a8afc1bf9/generated_cae7e3c91f2d4461ba8bff678a971ebd.png)
+ ![image alt](https://github.com/geek28/networkspeedup/blob/5ec8857790e030d6ad0207182d9eac8a8afc1bf9/generated_cae7e3c91f2d4461ba8bff678a971ebd.png)
  
